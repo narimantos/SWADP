@@ -8,7 +8,7 @@
             "defines": [],
             "compilerPath": "/home/linuxbrew/.linuxbrew/bin/gcc",
             "cStandard": "gnu11",
-            "cppStandard": "c++17",
+            "cppStandard": "c++11",
             "intelliSenseMode": "gcc-x64"
         }
     ],
